@@ -10,9 +10,6 @@ Here’s a preview of the website:
 
 ![Photography Website](https://github.com/MiryamGabay/My-first-project-in-html/blob/main/image/gif.png)
 
-
-![Photography Website](https://github.com/MiryamGabay/My-first-project-in-html/blob/main/image/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%A7%202024-08-05%20130409.png)
-
 ## Features
 
 - Responsive design
