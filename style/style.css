@@ -1,0 +1,171 @@
+body{
+    direction: rtl;
+    font-family:'Gisha';
+    text-align: center;
+}
+header,footer{
+    background-color: black;
+    font-family: 'Bradley Hand ITC';
+    font-style: italic;
+    color: white;
+    height: 20vh;
+    width: 100vw;
+    overflow: hidden;
+}
+footer{
+    height: 20vh;
+}
+footer p{
+ font-size:medium;
+}
+footer span{
+    font-size:xx-large;
+    font-family: 'Bradley Hand ITC';
+    font-style: italic;
+}
+nav{
+    height: 5vh;
+    width: 100vw;
+   background-color: darksalmon;
+}
+ul{
+    width: 100%;
+    height: 100%;
+   list-style-type: none;
+}
+li{
+    padding-top: 2vh;
+    float: right;
+    padding-left: 0%;
+    width: 25%;
+}
+li a{
+    display: inline;
+    
+}
+a{
+    color:black;
+    list-style-type: none;
+    text-decoration-line: none;
+    text-align: center;
+}
+article{
+    width: 100vw;
+    height: 65vh;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.open{
+display: flex;
+width: 100vw;
+justify-content: center;
+flex-flow: wrap;
+}
+.open img{
+    width: 19%;
+    height: 19%;
+    margin: 1%;
+    border-radius: 5%;
+    opacity: 0.5;
+}
+.open img:hover{  
+    border-radius:50%;
+    opacity: 1;
+    box-shadow: 20px 20px 20px black;
+}
+.about iframe{
+   width:30vw ;
+   height:45vh;
+   border-radius: 50%;
+   border-color: black;
+  border-width: 3px;
+  box-shadow: 20px 20px 20px black;
+} 
+.item {
+    
+    width:17vw ;
+    border-radius: 5%;
+    border-color: rgb(216, 114, 135);
+    border-width: 3px;
+    border-style: groove;
+    padding:16px;
+    margin:2vw;
+    display:inline-block;
+}
+div span{
+    font-family:'Segoe UI light';
+    text-shadow: 10px 10px 10px maroon;
+}
+div img{
+    width:18vw ; 
+}
+div a{
+    display: block;
+    background-color: darksalmon;
+    padding: 1vh;
+    font-size: large;
+}
+div a:hover{
+    background-color: rgb(214, 120, 89);
+}
+.proudctImg{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    flex-flow: wrap;
+}
+.proudctImg img{
+    width: 19%;
+    height: 19%;
+    margin: 1%;
+    border-radius: 5%;
+    
+}
+.proudct a,div a{
+font-size:large ;
+display: block;
+background-color: darksalmon;
+ padding: 1vh;
+}
+.proudct a:hover,div a:hover{
+    background-color: rgb(214, 120, 89);
+}
+.price{
+    background-image: url('../image/מצלמות/img174270.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: black;
+    border-style:  dashed;
+    border-width: 10px;
+    width: 50vw;
+    height: 100vh;
+    margin-right: 25vw;
+    color: red;
+}
+.price caption{
+    font-size: xx-large;
+}
+.price span{
+    font-size: xx-small;
+}
+.order{
+   color: red;
+    background-image: url('../image/מצלמות/img61148.jpg');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
